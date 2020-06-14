@@ -13,6 +13,7 @@ def main():
     parser.add_argument('--d', type=str, default=os.getcwd(),
                         help='Absolute path of the directory')
     parser.add_argument('--o', type=str, default='ext',
+                        choices=['ext', 'size', 'date'],
                         help='What Operation? (ext, size or date)')
     args = parser.parse_args()
     organise_folder(args)
