@@ -37,7 +37,7 @@ ___
 
 * ### **OS** Module for Interacting with Files
 
-* ### **SHUTIL** Module for copying and deleting files
+* ### **SHUTIL** Module for copying and deleting Files
 
 * ### **ARGPARSE** Module for manipulating the CLI
 
@@ -106,6 +106,6 @@ ___
 
 * ### Different Options for Deleting or Reaming Files can be Added
 
-* ### Graphical User Interface can be Deceloped for this Application
+* ### Graphical User Interface can be Developed for this Application
 
 ___
